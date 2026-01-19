@@ -1,5 +1,1 @@
-![](./datsudo_tetris.gif)
-
-<small>
-    <em>Thanks to the creators: <a href="https://erikdemaine.org/fonts/tetris/?text=datsudo&speed=5&black=1">Erik Demaine and Martin Demaine's website</a>.</em>
-</small>
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/91188a51-01cf-4bdb-bd83-166b17c715cd" />
